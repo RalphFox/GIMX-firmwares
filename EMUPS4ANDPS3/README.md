@@ -15,8 +15,11 @@ Future updates include reusing functions instead of just copypasta.
  without anything, it will run as a PS4 joystick emulator.
  
  You can add a switch if you want too, just add it like this:
+ 
  [PIN7]--|
+ 
          |----=[|||]=----
+         
        --|
   
   where PIN7 is the digital 7 from arduino, the | is the connectors from the switch, and the =[|||]= is the 1k resistor.
