@@ -18,4 +18,6 @@ Future updates include reusing functions instead of just copypasta.
  
 ![connection](http://www.gammon.com.au/images/Arduino/SwitchesTutorial/switch_tutorial2.png)
 
- where PIN7 is the digital 7 from arduino, the | is the connectors from the switch, and the =[|||]= is the 1k resistor.
+On this design it is set to 8, but you should connect it to whichever pin you defined as the toggle.
+
+TODO: change schematic to pullup instead of pulldown(a lot safer)
