@@ -16,10 +16,6 @@ Future updates include reusing functions instead of just copypasta.
  
  You can add a switch if you want too, just add it like this:
  
- [PIN7]--|
- 
-         |----=[|||]=----
-         
-       --|
+![connection](http://www.gammon.com.au/images/Arduino/SwitchesTutorial/switch_tutorial2.png)
 
  where PIN7 is the digital 7 from arduino, the | is the connectors from the switch, and the =[|||]= is the 1k resistor.
