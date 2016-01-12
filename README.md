@@ -6,15 +6,13 @@ The current hybrids are:
 [EMUPS4ANDPS3](https://github.com/RalphFox/GIMX-firmwares/tree/master/EMUPS4ANDPS3)
 
 -This project has the intent of merging as most firmwares as possible into a single one. 
-
 -It is still in early stages, i simply merged the two sources for PS4 and PS3 together.
-
 -Future updates include reusing functions instead of just copypasta and basic switching.
 
--ATTENTION: due to overhead of firmwares it is possible that this merged firmware will be a bit SLOWER than the original single file.
+-ATTENTION: due to overhead of firmwares it is possible that this merged firmware will be SLOWER than the original single file.
  I have not tested it yet. (Slow as in processing the input and sending it to the console
 
-Thanks to the original author: @matlo for this wonderful project
+Thanks to the original author: [@matlo](https://github.com/matlo/GIMX-firmwares) for this wonderful project
 
 Original Readme copypasted from the GIMX software(not firmware) as follows:
 ====
