@@ -21,5 +21,5 @@ Future updates include reusing functions instead of just copypasta.
          |----=[|||]=----
          
        --|
-  
-  where PIN7 is the digital 7 from arduino, the | is the connectors from the switch, and the =[|||]= is the 1k resistor.
+
+ where PIN7 is the digital 7 from arduino, the | is the connectors from the switch, and the =[|||]= is the 1k resistor.
